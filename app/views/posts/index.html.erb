@@ -1,0 +1,62 @@
+<h1>Listing posts</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Matter</th>
+    <th>Author</th>
+  </tr>
+
+<% for post in @posts %>
+  <tr>
+    <td><%= link_to post.title, post_path(post) %></td>
+    <td><%=h post.matter %></td>
+    <td><%=h post.user.login if post.user %></td>
+    <td><%= image_tag post.photo.url %></td>
+    <% if current_user && current_user.posts.include?(post) %>
+   		<td><%= link_to 'Show', post %></td>
+    	<td><%= link_to 'Edit', edit_post_path(post) %></td>
+    	<td><%= link_to 'Destroy', post, :confirm => 'Are you sure?', :method => :delete %></td>
+    <% end %>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<p> Users in system: </p>
+<table>
+	<% for user in @users %>
+	<tr>
+		<td>
+			<%=h user.login %>
+			<%= image_tag user.photo.url(:thumb) %>
+		</td>
+	</tr>
+	<% end %>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

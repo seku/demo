@@ -1,0 +1,22 @@
+<h1>Edit My Account</h1>
+<% form_for @user, :html => { :multipart => true }, :url => account_path do |f| %>
+  <%= f.error_messages %>
+  <%= render :partial => "form", :object => f %>
+
+  <% if @user.photo.url != "/photos/original/missing.png"  %>
+  	<%= image_tag @user.photo.url %><br />
+  
+		<%= link_to "Delete photo", user_photo_path(@user), :confirm => "are you sure? ", :method => :delete %> <br />
+		
+	<% else %> 
+	 	<%= f.label :photo %>
+	 	<br />
+  	<%= f.file_field :photo%>
+	<% end %>
+
+<br />
+  <br />
+  <%= f.submit "Update" %>
+<% end %>
+
+<br /><%= link_to "My Profile", account_path %>

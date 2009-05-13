@@ -1,0 +1,442 @@
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+Unable to load currency, underlying cause no such file to load -- currency 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+./test/test_helper.rb:35
+test/unit/post_mailer_test.rb:1:in `require'
+test/unit/post_mailer_test.rb:1
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Unable to load confirm, underlying cause no such file to load -- confirm 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+test/functional/emails_controller_test.rb:4
+Unable to load confirm, underlying cause no such file to load -- confirm 
+
+ /home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `gem_original_require'
+/home/seku/.rubygems/lib/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:155:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:262:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:221:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/dependencies.rb:133:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:856:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:871:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:868:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/fixtures.rb:851:in `fixtures'
+test/functional/emails_controller_test.rb:4
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:15:56) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:15:56 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Redirected to /emails
+Completed in 72ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:16:53) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:16:53 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Redirected to /emails
+Completed in 9ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:17:29) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:17:29 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Redirected to /emails
+Completed in 72ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:18:13) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.5ms)[0m   [0;1mSELECT * FROM "users" LIMIT 1[0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:18:13 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Redirected to /emails
+Completed in 86ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:20:06) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:06 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:06 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 75ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:20:32) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:32 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:32 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 75ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:20:49) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:49 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:20:49 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 81ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:21:09) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:21:09 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:21:09 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 75ms (DB: 2) | 302 Found [http://test.host/emails]
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:32:54) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:32:54 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:32:54 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 79ms (DB: 2) | 302 Found [http://test.host/emails]
+  [4;35;1mSQL (1.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing EmailsController#index (for 0.0.0.0 at 2009-03-23 12:33:33) [GET]
+  Parameters: {"action"=>"index", "controller"=>"emails"}
+  [4;36;1mUser Load (0.7ms)[0m   [0;1mSELECT * FROM "users" [0m
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:33:33 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear janek
+
+Sent mail to ppp@ppp.pp
+
+Date: Mon, 23 Mar 2009 12:33:34 +0100
+To: ppp@ppp.pp
+Subject: User confirm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear MyString
+
+Redirected to /emails
+Completed in 75ms (DB: 2) | 302 Found [http://test.host/emails]
+  [4;35;1mSQL (0.6ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m

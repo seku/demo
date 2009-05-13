@@ -1,0 +1,21 @@
+<p>
+<%= link_to "Delete your account", user_path(@user), :method => :delete, :confirm => "Are you sure you want to delete your account?" %>
+</p>
+<br />
+<p>
+  <b>Login:</b>
+  <%=h @user.login %>
+</p>
+<p>
+  <b>Password:</b>
+  <%=h @user.password %>
+</p>
+<p>
+  <b>Photo:</b>
+  <%= image_tag @user.photo.url %>
+</p>
+
+ 
+<%= link_to 'Edit', edit_account_path %>
+<br />
+<%= link_to 'Back to posts list', posts_path %>

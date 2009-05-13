@@ -1,0 +1,34 @@
+<h2> Choose date and symbol you would like to check: </h2>
+<br />
+<% form_tag(currencies_path, :method => :get) do %>
+  <%= select_tag :currency, options_for_select(@currency_short, params[:currency]) %>
+  <%= select_date(@selected_day, :start_year => 2002, :end_year => Time.now.year, :order => [:year, :month, :day]) %>
+	<%= submit_tag 'show' %>
+
+
+	<br/>
+	<%= @date %>	
+	<%= @currency if @currency %>
+	Value: <%= @desired_value if @desired_value  %>
+	<br/>
+	<h4> Select month of year and symbol for which graph would you like to see </h4>
+	<%# form_tag(currencies_path, :method => :get) do %>
+		<%= select_tag :shortcut, options_for_select(@currency_short, params[:shortcut]) %>
+		<%= select_date(@selected_day, :prefix => 'graph_date', :discard_day => true, :start_year => 2002, :end_year => Time.now.year, :order => [:year, :month]) %>
+	<%= submit_tag 'show' %>
+<% end %>
+
+sparkline :
+<% if @table %>
+	<%= sparkline_tag @table, 
+  	  :type => 'discrete',
+  	  :line_color => 'red',
+  	  :height => 80,
+  	  :step => 20 %>
+
+	<br />
+	table values: <br />
+	<% @table.each do |d| %>
+	<%= d %><br />
+	<% end %>
+<% end %>

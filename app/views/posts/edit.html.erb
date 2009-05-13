@@ -1,0 +1,19 @@
+<h1>Editing post</h1>
+
+<% form_for @post, :html => { :multipart => true } do |f| %>
+	<%= render :partial => "form", :object => f %>
+	<% if @post.photo.url != "/photos/original/missing.png" %>
+	 	<%= image_tag @post.photo.url %><br />
+  	<%= link_to "Delete photo", post_image_path(@post), :confirm => "are you sure? ", :method => :delete %> <br />  	
+  <% else %> 
+	 	<%= f.label :photo %>
+	 	<br />
+  	<%= f.file_field :photo%>
+	<% end %>
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @post %> |
+<%= link_to 'Back', posts_path %>
